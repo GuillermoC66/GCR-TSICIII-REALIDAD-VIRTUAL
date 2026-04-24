@@ -100,3 +100,8 @@ InitTestScene*.unity*
 *.so
 VR_Guillermo_Carrillo/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar
 /VR_Guillermo_Carrillo/Library
+/VR_Guillermo_Carrillo/Temp
+/VR_Guillermo_Carrillo/Temp
+/VR_Guillermo_Carrillo/Temp
+/VR_Guillermo_Carrillo/Temp/__Backupscenes
+/VR_Guillermo_Carrillo/Practica2_Guillermo_Carrillo_BackUpThisFolder_ButDontShipItWithYourGame
